@@ -3,8 +3,7 @@ package com.company.bean;
 import java.sql.Date;
 
 public class Customer {
-    //添加一行注释进行git测试
-    private int a;
+
     private int id;
     private String name;
     private String email;
